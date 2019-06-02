@@ -1,2 +1,1 @@
 # Pytorch
-PyTorch-Tutorial
